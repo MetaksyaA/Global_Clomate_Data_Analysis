@@ -25,7 +25,7 @@ This project provides an in-depth analysis of global climate, agricultural, and 
   - Adding calculated columns
   - Generating a correlation matrix
 
-![EDA Example]("C:\Users\User\Pictures\Screenshots\Screenshot 2024-11-10 181617.png") <!-- Replace with actual image path -->
+
 
 ### 2. Key Data Queries
 Using PostgreSQL, we explored relationships and patterns, including:
@@ -35,21 +35,19 @@ Using PostgreSQL, we explored relationships and patterns, including:
 - **Natural Disaster Counts by Type**
 - **Weather Condition Frequency by Location**
 
-![Temperature vs. Air Quality](path/to/image2.png) <!-- Replace with actual image path -->
-![Sunrise and Sunset Extremes](path/to/image3.png) <!-- Replace with actual image path -->
+
 
 ### 3. Principal Component Analysis (PCA) and Clustering
 - **PCA**: Conducted on July and September data to reduce dimensions while preserving variability.
 - **Clustering**: Used the Elbow Method with K-means to determine the optimal number of clusters.
 
-![PCA Example](path/to/image4.png) <!-- Replace with actual image path -->
-![Elbow Method](path/to/image5.png) <!-- Replace with actual image path -->
+
 
 ### 4. Data Visualization
 - **Tool**: Power BI
 - **Dashboard**: Interactive dashboard to visualize key insights from the dataset.
 
-![Power BI Dashboard](path/to/image6.png) <!-- Replace with actual image path -->
+
 
 ## Technologies Used
 - **Jupyter Notebook**: Data processing and analysis
