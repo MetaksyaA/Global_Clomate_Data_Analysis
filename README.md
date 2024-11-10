@@ -25,7 +25,7 @@ This project provides an in-depth analysis of global climate, agricultural, and 
   - Adding calculated columns
   - Generating a correlation matrix
 
-![EDA Example](path/to/image1.png) <!-- Replace with actual image path -->
+![EDA Example]("C:\Users\User\Pictures\Screenshots\Screenshot 2024-11-10 181617.png") <!-- Replace with actual image path -->
 
 ### 2. Key Data Queries
 Using PostgreSQL, we explored relationships and patterns, including:
