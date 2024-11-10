@@ -47,6 +47,7 @@ Using PostgreSQL, we explored relationships and patterns, including:
 - **Tool**: Power BI
 - **Dashboard**: Interactive dashboard to visualize key insights from the dataset.
 
+![Screenshot 2024-11-10 182014](https://github.com/user-attachments/assets/bb7d637c-33c4-4cbb-a52d-fe3b70963142)
 
 
 ## Technologies Used
